@@ -1,4 +1,4 @@
-# SQL
+# SQL practice Answers
 Easy Tasks
 
 1)select first_name ,last_name,gender from patients where gender like 'm%'
